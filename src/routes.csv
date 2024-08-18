@@ -1,0 +1,175 @@
+,id,bus-number,name,from,to
+0,544,56,ABC Connection - Bayleys Primary School - Holetown , Bayleys Primary School, Holetown
+1,543,56,ABC Connection - Holetown to Bayleys Primary School, Holetown, Bayleys Primary School 
+2,110,54,ABC Highway , Speightstown Terminal, Oistins
+3,111,54,ABC Highway, Oistins, Speightstown Terminal
+4,68,27,Airport, Airport, Speightstown Terminal
+5,547,54C,Airport via Coverley to Speightstown , Airport, Speightstown Terminal
+6,124,5A,Airy Hill, Airy Hill, Fairchild Street Terminal
+7,106,7B,Bath, Princess Alice Terminal, Bath
+8,107,7B,Bath, Bath, Princess Alice Terminal
+9,126,1E,Bathsheba, Bathsheba, Speightstown Terminal
+10,22,6,Bathsheba, Fairchild Street Terminal, Bathsheba
+11,125,6,Bathsheba, Bathsheba, Fairchild Street Terminal
+12,102,1E,Bathsheba, Speightstown Terminal, Bathsheba
+13,33,10,Bayfield, Fairchild Street Terminal, Bayfield
+14,127,10,Bayfield, Bayfield, Fairchild Street Terminal
+15,129,1A,Boscobelle, Speightstown Terminal, Boscobelle
+16,3,1A,Boscobelle, Princess Alice Terminal, Boscobelle
+17,130,1A,Boscobelle, Boscobelle, Speightstown Terminal
+18,128,1A,Boscobelle, Boscobelle, Princess Alice Terminal
+19,26,7A,Bowmanston, Fairchild Street Terminal, Bowmanston
+20,131,7A,Bowmanston, Bowmanston, Fairchild Street Terminal
+21,546,60,Bridgefield to Oistins Via Green Hill , Bridgefield, Oistins
+22,138,51,Bridgetown Shuttle, Fairchild Street Terminal, Princess Alice Terminal
+23,477,57,Bridgetown to Warrens , Bridgetown, Warrens
+24,482,25A,Cave Hill/Grazettes, Cave Hill/Grazettes, Princess Alice Terminal
+25,133,5C,Chalky Mount, Chalky Mount, Fairchild Street Terminal
+26,20,5C,Chalky Mount, Fairchild Street Terminal, Chalky Mount
+27,496,9C,Church Village, Church Village, Fairchild Street Terminal
+28,86,9C,Church Village, Church Village, Fairchild Street Terminal
+29,497,9C,Church Village, Fairchild Street Terminal, Church Village
+30,48,33,City Circle, Princess Alice Terminal, Princess Alice Terminal
+31,24,6C,Clifton Hall, Fairchild Street Terminal, Clifton Hall
+32,136,6C,Clifton Hall, Clifton Hall, Fairchild Street Terminal
+33,137,9,College Savannah, College Savannah, Fairchild Street Terminal
+34,31,9,College Savannah, Fairchild Street Terminal, College Savannah
+35,55,26,College Savannah/Oistins, Oistins, College Savannah
+36,140,26,College Savannah/Oistins, College Savannah, Oistins
+37,6,1C,Connelltown, Princess Alice Terminal, Connell Town
+38,182,1C,Connelltown, Connell Town, Princess Alice Terminal
+39,83,12D,Crane, Fairchild Street Terminal, KIRTONS 3 AND CRANE
+40,84,12D,Crane, KIRTONS 3 AND CRANE, Fairchild Street Terminal
+41,43,19D,Dash Valley, Fairchild Street Terminal, Dash Valley
+42,142,19D,Dash Valley, Dash Valley, Fairchild Street Terminal
+43,143,25,Deacon's Road, Deacon's Road, Princess Alice Terminal
+44,61,25,Deacon's Road, Princess Alice Terminal, Deacon's Road
+45,9,1D,District 'D', Princess Alice Terminal, Airy Cot / District D
+46,144,1D,District 'D', Airy Cot / District D, Princess Alice Terminal
+47,145,8D,Drax Hall, Drax Hall, Fairchild Street Terminal
+48,27,8D,Drax Hall, Fairchild Street Terminal, Drax Hall
+49,146,22A,Eden Lodge, Eden Lodge, Princess Alice Terminal
+50,57,22A,Eden Lodge/Jackson , Princess Alice Terminal, Eden Lodge
+51,35,11A,Edey Village, Fairchild Street Terminal, Edey Village
+52,147,11A,Edey Village, Edey Village, Fairchild Street Terminal
+53,524,1SA,Fairchild Street/Speightstown , Fairchild Street Terminal, Speightstown Terminal
+54,37,12F,Fairy Valley, Fairchild Street Terminal, Fairy Valley
+55,148,12F,Fairy Valley, Fairy Valley, Fairchild Street Terminal
+56,28,8F,Flat Rock, Fairchild Street Terminal, Flat Rock
+57,149,8F,Flat Rock, Flat Rock, Fairchild Street Terminal
+58,562,62,Gall Hill to Six Roads, Gall Hill, Six Roads
+59,557,4,Grantley Adams School, Princess Alice Terminal, Grantley Adams Secondary School
+60,121,8AB,Greens & St. Judes, Greens & St. Judes, Fairchild Street Terminal
+61,122,23,Holders Hill, Holders Hill, Princess Alice Terminal
+62,58,23,Holders Hill, Princess Alice Terminal, Holders Hill
+63,150,20,Howells & Ivy, Howells & Ivy, Fairchild Street Terminal
+64,109,20,Howells & Ivy, Fairchild Street Terminal, Howells & Ivy
+65,152,1A1,Indian Ground, Indian Ground, Speightstown Terminal
+66,151,1A1,Indian Ground, Speightstown Terminal, Indian Ground
+67,2,1A1,Indian Ground, Princess Alice Terminal, Indian Ground
+68,123,1A1,Indian Ground, Indian Ground, Princess Alice Terminal
+69,4,,Indian Ground/Boscobelle, Princess Alice Terminal, Indian Ground / Boscobelle
+70,153,22,Jackson, Jackson, Princess Alice Terminal
+71,46,50,Jackson/Warrens, Princess Alice Terminal, Jackson/Warrens/Shop Hill
+72,485,1C1,Josey Hill , Princess Alice Terminal, Josey Hill
+73,486,1C1,Josey Hill, Josey Hill, Princess Alice Terminal
+74,156,1C1,Josey Hill, Josey Hill, Speightstown Terminal
+75,480,1CB,Josey Hill/Pie Corner, Josey Hill / Pie Corner, Princess Alice Terminal
+76,479,1CB,Josey Hill/Pie Corner, Princess Alice Terminal, Josey Hill / Pie Corner
+77,44,19E,Kendal, Fairchild Street Terminal, Kendal
+78,157,19E,Kendal, Kendal, Fairchild Street Terminal
+79,66,27,Kirtons/Speightstown, Kirtons, Speightstown Terminal
+80,532,27,Long Bay, Long Bay, Speightstown Terminal
+81,64,16D,Lowlands, Fairchild Street Terminal, Lowlands
+82,158,16D,Lowlands, Lowlands, Fairchild Street Terminal
+83,159,11,Marley Vale, Marley Vale, Fairchild Street Terminal
+84,34,11,Marley Vale, Fairchild Street Terminal, Marley Vale
+85,23,6A,Martin's Bay, Fairchild Street Terminal, Martin's Bay
+86,160,6A,Martin's Bay, Martin's Bay, Fairchild Street Terminal
+87,545,60,Oistins to Bridgefield via Green Hill, Oistins, Bridgefield
+88,494,27E,Oistins/ Wanstead, Oistins, Wanstead
+89,54,27,Oistins/Speightstown, Oistins, Speightstown Terminal
+90,203,28,Oistins/St. George Parish Church, Oistins, St. George Church
+91,484,1B,Pie Corner , Pie Corner, Princess Alice Terminal
+92,161,1B,Pie Corner, Speightstown Terminal, Pie Corner
+93,163,1B,Pie Corner, Pie Corner, Speightstown Terminal
+94,483,1B,Pie Corner , Princess Alice Terminal, Pie Corner
+95,489,1P,Porters/Westmoreland, Princess Alice Terminal, Porters/Westmoreland 
+96,490,1P,Porters/Westmoreland, Porters/Westmoreland, Princess Alice Terminal
+97,469,27E,Redman Village Cross Country, Redmans Village, Oistins
+98,14,2A,Rock Dundo, Princess Alice Terminal, Rock Dundo
+99,164,2A,Rock Dundo, Rock Dundo, Princess Alice Terminal
+100,51,30A,Rock Dundo to Silver Sands, Rock Dundo, Silver Sands
+101,13,2,Rock Hall, Princess Alice Terminal, Rock Hall
+102,165,2,Rock Hall, Rock Hall, Princess Alice Terminal
+103,467,31A,Rock Hall / Silver Sands, Rock Hall, Oistins
+104,52,29,Rock Hall/Speightstown, Speightstown Terminal, Rock Hall
+105,166,29,Rock Hall/Speightstown, Rock Hall, Speightstown Terminal
+106,167,12A,Sam Lord's Castle, Sam Lords Castle, Fairchild Street Terminal
+107,36,12A,Sam Lord's Castle, Fairchild Street Terminal, Sam Lords Castle
+108,25,7,Sargeant Street, Fairchild Street Terminal, Sargeant Street
+109,168,7,Sargeant Street, Sargeant Street, Fairchild Street Terminal
+110,17,4,Shorey Village, Princess Alice Terminal, Shorey Village
+111,169,4,Shorey Village, Shorey Village, Princess Alice Terminal
+112,94,13,Silver Sands, Silver Sands, Fairchild Street Terminal
+113,190,13,Silver Sands, Oistins, Silver Sands
+114,191,13,Silver Sands, Silver Sands, Oistins
+115,468,31A,SIlver Sands / Rock Hall, Oistins, Rock Hall
+116,455,30A,Silver Sands to Rock Dundo, Silver Sands, Rock Dundo
+117,65,27,Silver Sands/Speightstown, Silver Sands, Speightstown Terminal
+118,170,31,Silver Sands/St. Judes, Silver Sands, St. George Church
+119,178,32,Silver Sands/White Hill, Silver Sands, White Hill
+120,192,10S,Six Roads, Fairchild Street Terminal, Six Roads
+121,193,10S,Six Roads, Six Roads, Fairchild Street Terminal
+122,561,62,Six Roads to Gall  Hill, Six Roads, Gall Hill
+123,475,58,Six Roads Via St. George Church to Warrens, Six Roads, Warrens
+124,171,9A,Society, Society, Fairchild Street Terminal
+125,32,9A,Society, Fairchild Street Terminal, Society
+126,553,34,Southern Circle, Oistins, Oistins
+127,1,1,Speightstown, Princess Alice Terminal, Speightstown Terminal
+128,74,1,Speightstown, Speightstown Terminal, Princess Alice Terminal
+129,549,54C,Speightstown via Coverley to Airport , Speightstown Terminal, Airport
+130,525,1SA,Speightstown/ Fairchild Street, Speightstown Terminal, Fairchild Street Terminal
+131,69,27,Speightstown/Airport, Speightstown Terminal, Airport
+132,67,27,Speightstown/Kirtons, Speightstown Terminal, Kirtons
+133,53,27,Speightstown/Oistins, Speightstown Terminal, Oistins
+134,71,27,Speightstown/Silver Sands, Speightstown Terminal, Silver Sands
+135,536,59,Speightstown/Warrens Loop, Speightstown Terminal, Speightstown Terminal
+136,172,1G,St. Albans, St. Albans, Princess Alice Terminal
+137,12,1G,St. Albans, Princess Alice Terminal, St. Albans
+138,173,3,St. Andrew's Church, St. Andrew's Church, Princess Alice Terminal
+139,15,3,St. Andrew's Church, Princess Alice Terminal, St. Andrew's Church
+140,91,13B,St. Christoper, St. Christopher, Fairchild Street Terminal
+141,498,13B,St. Christopher, Bridgetown, St. Christopher
+142,202,28,St. George Church to Silver Sands, St. George Church, Oistins
+143,50,31,St. Judes/Silver Sands, St. George Church, Silver Sands
+144,188,1F,St. Lucy Church, St. Lucy Church, Speightstown Terminal
+145,187,1F,St. Lucy Church, St. Lucy Church, Princess Alice Terminal
+146,189,1F,St. Lucy Church, Speightstown Terminal, St. Lucy Church
+147,11,1F,St. Lucy Church, Princess Alice Terminal, St. Lucy Church
+148,174,16A,St. Patrick's, St. Patricks, Fairchild Street Terminal
+149,41,16A,St. Patrick's , Fairchild Street Terminal, St. Patricks
+150,72,4A,Sturges, Princess Alice Terminal, Sturges
+151,175,4A,Sturges, Sturges, Princess Alice Terminal
+152,19,5G,Sugar Hill, Fairchild Street Terminal, Sugar Hill
+153,176,5G,Sugar Hill, Sugar Hill, Fairchild Street Terminal
+154,528,T11,TASI Edey Village, TASI Edey Village, Fairchild Street Terminal
+155,527,11T,TASI Edey Village, Fairchild Street Terminal, TASI Edey Village
+156,59,24,Wanstead, Princess Alice Terminal, Wanstead
+157,177,24,Wanstead, Wanstead, Princess Alice Terminal
+158,470,27D,Wanstead Cross Country, Wanstead, Sam Lords Castle
+159,478,57,Warrens to Bridgetown , Warrens, Bridgetown 
+160,476,58,Warrens to Six Roads Via St George Church , Warrens, Six Roads
+161,472,55,Warrens via Six Roads to Wellhouse, Warrens, Wellhouse
+162,88,10E,Wellhouse, Wellhouse, Fairchild Street Terminal
+163,87,10E,Wellhouse, Fairchild Street Terminal, Wellhouse
+164,471,55,Wellhouse Via Six Roads to Warrens, Wellhouse, Warrens
+165,16,3A,White Hill, Princess Alice Terminal, White Hill
+166,179,3A,White Hill, White Hill, Princess Alice Terminal
+167,49,32,White Hill/Silver Sands, White Hill, Oistins
+168,180,8B,Workmans, Workmans, Fairchild Street Terminal
+169,30,8B,Workmans, Fairchild Street Terminal, Workmans
+170,181,19,Yorkshire, Yorkshire, Fairchild Street Terminal
+171,42,19,Yorkshire, Fairchild Street Terminal, Yorkshire
+172,551,19C,Yorkshire/Edey Village , Gemswick, Bridgetown 
+173,550,19C,Yorkshire/Edey Village , Fairchild Street Terminal, Gemswick
